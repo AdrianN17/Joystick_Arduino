@@ -2,6 +2,7 @@
 
 Codigo fuente y diseño electronico de un mando para un juego, utilizando los siguientes componentes:
 
+* Arduino UNO
 * Led naranja
 * 5 Resistencias 220 Ω
 * 2 Sensores Joystick
