@@ -11,3 +11,5 @@ Codigo fuente y diseño electronico de un mando para un juego, utilizando los si
 * Cables
 
 Utilizados junto a un [lector de puerto serial](https://github.com/AdrianN17/Conexion_Puertos_Com) para el siguiente [juego](https://github.com/AdrianN17/Kill_the_Zombies)
+
+![alt text](https://imgur.com/a/ET4gfHZ)
