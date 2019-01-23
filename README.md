@@ -12,4 +12,4 @@ Codigo fuente y diseño electronico de un mando para un juego, utilizando los si
 
 Utilizados junto a un [lector de puerto serial](https://github.com/AdrianN17/Conexion_Puertos_Com) para el siguiente [juego](https://github.com/AdrianN17/Kill_the_Zombies)
 
-![alt text](https://i.imgur.com/aBw4eQl.png)
+![alt text](https://i.imgur.com/hhKVrFt.png)
